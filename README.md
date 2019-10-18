@@ -1,5 +1,5 @@
 # scraper-bot
-This basic project consists in a python web scraper combined with a python telegram bot. The first gets the information and the bot shows to the users. It is made to scrape the title and description of the daily free book from packtpub.
+This basic project consists into a web scraper combined with a telegram bot, both programmed in Python. The first gets the information and the bot shows it to the users. It is made to scrape the title and description of the daily free book from packtpub.
 
 To use this program, you will need the modules "urllib2" and "bs4" for the scraper, and the "schedule" for the bot.
 To change the deliver time of the bot, change the variable "deliver_time" (line 22) from the file "trebal_bot.py".
